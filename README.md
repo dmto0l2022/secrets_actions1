@@ -8,3 +8,6 @@ https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/b
 
 https://blog.dennisokeeffe.com/blog/2020-07-09-hello-github-actions
 
+# working on a different branch
+
+git pull origin develop
